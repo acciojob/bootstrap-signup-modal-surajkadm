@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.close {
+			background-color: transparent;
+			border: none;
+		}
